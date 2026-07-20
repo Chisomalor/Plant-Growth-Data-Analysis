@@ -49,6 +49,18 @@ The dataset contains plant growth measurements collected under different fertili
 
 See **Dashboard.png** for the completed visualization.
 
+## Dashboard
+
+![Dashboard](Dashboard.png)
+
+## Exploratory Data Analysis (EDA)
+
+![EDA Summary](EDA_Summary.png)
+
+## Raw Dataset
+
+![Raw Data](Raw_Data.png)
+
 ---
 
 ## Author
